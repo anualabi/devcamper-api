@@ -1,3 +1,5 @@
+// Move this file into "config" directory and update the values/settings with your own.
+
 export default {
   dbUri: "",
   environment: "development",
