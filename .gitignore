@@ -1,4 +1,4 @@
 node_modules/
-config/
+config/default.ts
 .DS_Store
 build
